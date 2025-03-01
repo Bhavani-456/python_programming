@@ -1,0 +1,34 @@
+variable=value(datatype)
+
+integer=value without decimal
+float=value with decimal
+boolean=true or false
+in system true value is 1 false value is 0
+complex=a+bj
+a=real part
+b=imaginary part
+j=square root of -1
+single,double,triple quotes are called strings
+if we use triple quotes we will get new line
+python slicing is colon
+python index -->2 parts
+1.forward index
+2.backward index
+errors-name error
+syntax error
+zero division error
+index error
+operators-arithemetic 
+assignment
+relational
+logical
+unary
+type conversion-int(True)=1
+int(False)=0
+int(13.2)=13
+function ends with ()
+family()-->it has no arguments
+family1(mom,dad)-->it has 2 arguments
+family2(mom,dad,son,daughter)-->it has 4 arguments
+argument and parameter are same
+we can type cast from all other data types except complex & text string
